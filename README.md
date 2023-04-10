@@ -8,18 +8,18 @@ To use the Calculator App with React, follow these steps:
 
 Clone the repository using the command 
 
-         git clone https://github.com/OviSarkar62/Calculator_App_with_React.git.
+    git clone https://github.com/OviSarkar62/Calculator_App_with_React.git
 
 Change the directory to the project's root directory using the command 
      
-      cd Calculator_App_with_React.
+    cd Calculator_App_with_React
 
 Install the dependencies by running the command 
 
-      npm install.
+    npm install
 
 To run the app, use the command 
   
-      npm start
+    npm start
 
 The app should now be running at http://localhost:3000.
