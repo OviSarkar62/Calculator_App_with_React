@@ -32,7 +32,8 @@ The Calculator App provides a simple interface for basic arithmetic calculations
 - Subtraction (-)
 - Multiplication (*)
 - Division (/)
-- Clear (AC)
+- Clear (Clear)
+- Backspace (C)
 - Display the result (=)
 
 To use the calculator, follow these steps:
