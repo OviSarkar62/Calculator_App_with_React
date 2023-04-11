@@ -42,7 +42,7 @@ To use the calculator, follow these steps:
 - Select the desired operation using the corresponding operation key on the keypad.
 - Enter the second number using the number keys on the keypad. 
 - Press the equal key (=) to display the result.
-- Press the clear key (AC) to clear the input and result.
+- Press the clear key (Clear) to clear the input and result.
 
 ## Conclusion
 The Calculator App with React is a simple yet powerful application built using the React library. Its simple UI makes it easy for users to perform basic arithmetic operations. You can modify the app to include more advanced operations or additional features to suit your needs.
