@@ -99,33 +99,3 @@ button:active {
   background: #56cbdb;
   color: #fff;
 }
-
-/* Responsive styles for mobile devices */
-@media screen and (max-width: 768px) {
-  .container {
-    padding: 1rem;
-  }
-
-  input[type="text"] {
-    font-size: 1.6rem;
-  }
-
-  .keypad {
-    grid-template-columns: repeat(3, 1fr);
-    grid-gap: 0.5rem;
-  }
-
-  button {
-    padding: 1rem 1.5rem;
-    font-size: 1.6rem;
-  }
-
-  #clear {
-    grid-column: 1/2;
-  }
-
-  #result {
-    grid-column: 2/4;
-    grid-row: 6;
-  }
-}
