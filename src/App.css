@@ -15,6 +15,7 @@ html {
 
 body {
   display: flex;
+  background: #272838;
   justify-content: center;
   align-items: center;
 }
